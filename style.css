@@ -8,6 +8,10 @@ body{
     font-family: "monospace, sans-serif";
 }
 
+.navbar-expand-lg .navbar-collapse{
+    display: flex;
+    flex-basis: auto;
+}
 .nav-item{
     display: flex;
     }
