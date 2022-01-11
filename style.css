@@ -8,11 +8,9 @@ body{
     font-family: "monospace, sans-serif";
 }
 
-.nav-item {
+.nav-item{
     display: flex;
     }
-
-
 
 
 .font-primary{
