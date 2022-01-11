@@ -11,7 +11,8 @@ body{
 .nav-item{
     display: flex;
     }
-.nav-link{
+
+.nav-link.about{
     display: flex;
 }
 
