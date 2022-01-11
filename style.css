@@ -8,6 +8,10 @@ body{
     font-family: "monospace, sans-serif";
 }
 
+.nav-item {
+    display: flex;
+    }
+
 a.nav-link.font-black{
     text-align: horizontal;
 }
